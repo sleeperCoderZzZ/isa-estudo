@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", function(){
         return;
        }
 
-       // simulação de autentição
+       // simulação de autenticação
 
        if(login === "admin" && senha === "1234"){
         alert("login bem sucedido!");
